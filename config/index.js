@@ -1,0 +1,4 @@
+module.exports = {
+  SHOPIFY_APP_API_KEY: process.env.SHOPIFY_APP_API_KEY,
+  SHOPIFY_APP_API_SECRET_KEY: process.env.SHOPIFY_APP_API_SECRET_KEY
+}
